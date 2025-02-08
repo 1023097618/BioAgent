@@ -1,0 +1,29 @@
+{
+  "cookies": {
+    "cookies-accepted": "true",
+    "_pk_id.2.93f3": "ee041712a3631f6d.1719828203.",
+    "csrftoken": "t9HCB1HVrV5lPGc54mBgGaLXuZA9zmpiL2ciyxzSbBm9njzGt7VHwXCA1w2jKp4j",
+    "_ga": "GA1.1.1474899673.1719830712",
+    "_ga_LMNK5MEQ4Z": "GS1.1.1723355722.1.1.1723355735.0.0.0",
+    "_ga_DGQJ9J085B": "GS1.1.1723365116.6.0.1723365116.0.0.0",
+    "_ga_7L5H17FX33": "GS1.1.1723365116.16.1.1723365116.0.0.0",
+    "embl-ebi-public-website-v1.0-data-protection-accepted": "true",
+    "_pk_ref.2.93f3": "%5B%22%22%2C%22%22%2C1724031586%2C%22https%3A%2F%2Fgithub.com%2FHUST-NingKang-Lab%2FONN4MST%2Ftree%2Fmaster%3Ftab%3Dreadme-ov-file%22%5D",
+    "_pk_ses.2.93f3": "1"
+  },
+  "headers": {
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-TW;q=0.5",
+    "Cache-Control": "no-cache",
+    "Connection": "keep-alive",
+    "Pragma": "no-cache",
+    "Referer": "https://www.ebi.ac.uk/metagenomics/browse/studies",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"99\", \"Microsoft Edge\";v=\"127\", \"Chromium\";v=\"127\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+  }
+}

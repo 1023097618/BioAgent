@@ -1,0 +1,11 @@
+.cache
+__pycache__
+data/*
+decisionModel/*
+model/*
+output_npz/*
+temp/*
+coding/*
+task_summary.txt
+!data/scratch.py
+!data/config.json
