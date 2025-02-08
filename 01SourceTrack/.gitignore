@@ -9,3 +9,7 @@ coding/*
 task_summary.txt
 !data/scratch.py
 !data/config.json
+!coding/.gitkeep
+!decisionModel/.gitkeep
+!model/.gitkeep
+!output_npz/.gitkeep
